@@ -1,5 +1,5 @@
 {
-  "name": "@nutrient-sdk/dws-mcp-server",
+  "name": "@iflow-mcp/nutrient-dws-mcp-server",
   "version": "0.0.5",
   "description": "MCP server for Nutrient DWS Processor API",
   "license": "MIT",
@@ -38,7 +38,7 @@
     "clean": "shx rm -rf dist"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.11.2",
+    "@modelcontextprotocol/sdk": "^1.25.0",
     "axios": "^1.9.0",
     "form-data": "^4.0.2",
     "zod": "^3.24.3"
